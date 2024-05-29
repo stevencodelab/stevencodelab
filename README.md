@@ -3,13 +3,13 @@
 </div>
 <br>
 <div id="badges" align="center">
-  <a href="https://www.debian.org/index.id.html">
+  <a href="https://www.debian.org/index.id.html" target="_blank">
     <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
   </a>
-  <a href="https://ubuntu.com/">
+  <a href="https://ubuntu.com/" target="_blank">
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/windows">
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   </a>
 
