@@ -39,7 +39,7 @@
  
 </div>
 
-<h3 align="center">Hi there 👋, my name is Steven Morison im an Odoo Developer currently working with Odoo V14</h3>
+<h3 align="center">Hi there 👋, my name is Steven Morison im an Odoo Developer currently working with Odoo V14, V17, & V18</h3>
 <br>
 <h3 align="center">Welcome To My Profile</h3>
 <br>
